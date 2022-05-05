@@ -327,29 +327,7 @@
         "value": "Regular",
         "type": "fontWeights"
       }
-    }
     },
-    "textCase": {
-      "none": {
-        "value": "none",
-        "type": "textCase"
-      }
-    },
-    "textDecoration": {
-      "none": {
-        "value": "none",
-        "type": "textDecoration"
-      }
-    },
-  "onair": {
-    "fontFamilies": {
-      "onAir": {
-        "value": "On Air",
-        "type": "fontFamilies"
-      }
-    }
-  },
-  "global": {
     "text-preset-10": {
       "value": {
         "fontFamily": "{fontFamilies.onAir}",
@@ -565,5 +543,27 @@
         },
         "type": "typography"
       }
-  }
+    },
+    "textCase": {
+      "none": {
+        "value": "none",
+        "type": "textCase"
+      }
+    },
+    "textDecoration": {
+      "none": {
+        "value": "none",
+        "type": "textDecoration"
+      }
+    }
+  },
+  "onair": {
+    "fontFamilies": {
+      "onAir": {
+        "value": "On Air",
+        "type": "fontFamilies"
+      }
+    }
+  },
+  "global": {}
 }
