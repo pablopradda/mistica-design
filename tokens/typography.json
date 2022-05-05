@@ -1,5 +1,5 @@
 {
-  "global": {
+  "mobile": {
     "fontFamilies": {
       "on-air": {
         "value": "On Air",
@@ -312,5 +312,6 @@
         "type": "textDecoration"
       }
     }
-  }
+  },
+  "desktop": {}
 }
